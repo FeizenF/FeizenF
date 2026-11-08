@@ -1,15 +1,36 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Fernanda%20Brian%20Kholish&desc=%22Feizen%22%20%C2%B7%20Cyber%20Security%20Student%20%26%20App%20Developer&descAlign=center&descAlignY=68&descSize=17&textBg=false&fontColor=E5B80B&fontSize=42&stroke=E5B80B&strokeWidth=1&color=0:0D1117,50:161B22,100:322A12" alt="Fernanda Brian Kholish - Feizen" width="100%" />
 
 <p align="center">
-  <em>Cyber Security student who builds mobile and web applications.</em>
+  <em>Cyber Security student focused on building useful software and understanding how systems work.</em>
 </p>
 
-## About Me
+<p align="center">
+  <a href="https://github.com/FeizenF">
+    <img src="https://img.shields.io/badge/GitHub-FeizenF-1C1C1C?style=flat-square&logo=github&logoColor=E5B80B" alt="GitHub" />
+  </a>
+  <a href="mailto:Fernandabrian46@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Fernandabrian46%40gmail.com-1C1C1C?style=flat-square&logo=gmail&logoColor=E5B80B" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=FeizenF&style=flat-square&color=1C1C1C&label=Profile%20Views" alt="Profile views" />
+</p>
 
-- 🎓 Informatics student focused on **Cyber Security**
-- 🔍 Interested in **Digital Forensics**, **Web Development**, and **Mobile Development**
-- 📱 Building cross-platform apps with **Flutter**
-- 💬 Ask me about Python, Dart, PHP, or JavaScript
+---
+
+## About
+
+I'm an Informatics student with an interest in **Cyber Security, Digital Forensics, and Software Development**.
+
+Most of my projects are built around learning how applications work from both sides: building them and understanding the systems behind them.
+
+Currently working with **Flutter, Python, PHP, JavaScript, and modern web technologies**.
+
+---
+
+## Focus
+
+`CYBER SECURITY` · `DIGITAL FORENSICS` · `WEB DEVELOPMENT` · `MOBILE DEVELOPMENT`
+
+---
 
 ## Tech Stack
 
@@ -22,7 +43,7 @@
   <img src="https://img.shields.io/badge/JavaScript-1C1C1C?style=flat-square&logo=javascript&logoColor=E5B80B" alt="JavaScript" />
 </p>
 
-**Frameworks &amp; Tools**
+**Frameworks & Tools**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-1C1C1C?style=flat-square&logo=flutter&logoColor=E5B80B" alt="Flutter" />
@@ -32,7 +53,47 @@
   <img src="https://img.shields.io/badge/MySQL-1C1C1C?style=flat-square&logo=mysql&logoColor=E5B80B" alt="MySQL" />
 </p>
 
-## GitHub Statistics
+---
+
+## Currently Building
+
+**Student-App**  
+A Flutter-based academic application for managing courses, grades, and GPA.
+
+**Web Systems**  
+Small web applications focused on backend logic, database design, and practical CRUD systems.
+
+**Security & Forensics**  
+Exploring digital forensics, file analysis, metadata, and security fundamentals.
+
+---
+
+## Selected Projects
+
+### Student-App
+[github.com/FeizenF/Student-App](https://github.com/FeizenF/Student-App)
+
+Cross-platform academic application built with **Flutter** and **Material 3**.
+
+`Flutter` `Dart` `Material 3`
+
+### sistem-manajemen-mahasiswa
+[github.com/FeizenF/sistem-manajemen-mahasiswa](https://github.com/FeizenF/sistem-manajemen-mahasiswa)
+
+Student data management system using **PHP, PDO, and MySQL**, including validation, relational queries, and a statistics dashboard.
+
+`PHP` `PDO` `MySQL`
+
+### feizen-haven-hotel
+[github.com/FeizenF/feizen-haven-hotel](https://github.com/FeizenF/feizen-haven-hotel)
+
+Hotel booking system built with **Flask, Tailwind CSS, and JavaScript**.
+
+`Flask` `Python` `Tailwind CSS` `JavaScript`
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FeizenF&theme=github_dark" alt="GitHub stats" />
@@ -44,33 +105,14 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FeizenF&theme=github_dark" alt="Most committed languages" />
 </p>
 
-## Featured Projects
+---
 
-### 🎓 [Student-App](https://github.com/FeizenF/Student-App)
+## Learning
 
-Cross-platform academic app — courses, grades, and temporary GPA — built with **Flutter** and **Material 3**.
+`Digital Forensics` · `Network Security` · `Laravel` · `React`
 
-### 🧾 [sistem-manajemen-mahasiswa](https://github.com/FeizenF/sistem-manajemen-mahasiswa)
-
-Student data management web app using **PHP**, **PDO**, and **MySQL** — form validation, INNER JOIN queries, and a stats dashboard.
-
-### 🏨 [feizen-haven-hotel](https://github.com/FeizenF/feizen-haven-hotel)
-
-Hotel booking system built with **Flask**, **Tailwind CSS**, and **JavaScript**.
-
-## Currently Learning
-
-- 🔐 Digital Forensics
-- 🛡️ Network Security
-- 🌐 Laravel &amp; React
-
-## Connect With Me
+---
 
 <p align="center">
-  <a href="mailto:Fernandabrian46@gmail.com">
-    <img src="https://img.shields.io/badge/Fernandabrian46%40gmail.com-1C1C1C?style=flat-square&logo=gmail&logoColor=E5B80B" alt="Email" />
-  </a>
-  <a href="https://github.com/FeizenF">
-    <img src="https://img.shields.io/badge/FeizenF-1C1C1C?style=flat-square&logo=github&logoColor=E5B80B" alt="GitHub" />
-  </a>
+  <sub>Build things. Understand systems. Keep learning.</sub>
 </p>
