@@ -109,7 +109,7 @@ Hotel booking system built with **Flask, Tailwind CSS, and JavaScript**.
 
 ## Learning
 
-`Digital Forensics` · `Network Security` · `Laravel` · `React`
+`Cyber Security` · `Network Security` · `Laravel` · `React`
 
 ---
 
