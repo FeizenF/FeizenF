@@ -1,99 +1,87 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Fernanda%20Brian%20Kholish&desc=%22Feizen%22%20%C2%B7%20Cyber%20Security%20Student%20%26%20App%20Developer&descAlign=center&descAlignY=68&descSize=17&textBg=false&fontColor=E5B80B&fontSize=42&stroke=E5B80B&strokeWidth=1&color=0:0D1117,50:161B22,100:322A12" alt="Fernanda Brian Kholish - Feizen" width="100%" />
+<div align="center">
 
-<p align="center">
-  <em>Cyber Security student focused on building useful software and understanding how systems work.</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Fernanda%20Brian%20Kholish&desc=%3C%20Feizen%20%2F%3E%20Cyber%20Security%20Student&descAlign=center&descAlignY=70&descSize=16&textBg=false&fontColor=E5B80B&fontSize=44&stroke=E5B80B&strokeWidth=1&color=0:05070A,50:0D1117,100:2A2410" alt="Fernanda Brian Kholish - Feizen" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/FeizenF">
-    <img src="https://img.shields.io/badge/GitHub-FeizenF-1C1C1C?style=flat-square&logo=github&logoColor=E5B80B" alt="GitHub" />
-  </a>
-  <a href="mailto:Fernandabrian46@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Fernandabrian46%40gmail.com-1C1C1C?style=flat-square&logo=gmail&logoColor=E5B80B" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=FeizenF&style=flat-square&color=1C1C1C&label=Profile%20Views" alt="Profile views" />
-</p>
+<a href="https://github.com/FeizenF">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1100&color=E5B80B&center=true&vCenter=true&width=760&lines=Cyber+Security+Student;Digital+Forensics+%7C+Security+Fundamentals;Flutter+%2B+Web+Developer;Build+things.+Understand+systems." alt="Typing SVG" />
+</a>
 
----
+<br />
 
-## About
+<a href="https://github.com/FeizenF">
+  <img src="https://img.shields.io/badge/GitHub-FeizenF-0D1117?style=flat-square&logo=github&logoColor=E5B80B" alt="GitHub" />
+</a>
+<a href="mailto:Fernandabrian46@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Fernandabrian46%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=E5B80B" alt="Email" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=FeizenF&style=flat-square&color=1C1C1C&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+<br />
+
+## `01` // ABOUT
 
 I'm an Informatics student with an interest in **Cyber Security, Digital Forensics, and Software Development**.
 
-Most of my projects are built around learning how applications work from both sides: building them and understanding the systems behind them.
+Most of my work starts from the same question: how does this system actually work? I build applications to find out, then take them apart from the other side.
 
-Currently working with **Flutter, Python, PHP, JavaScript, and modern web technologies**.
+```console
+$ whoami
+fernanda brian kholish · "feizen"
 
----
+$ pwd
+informatics · cyber security · app development
 
-## Focus
+$ cat focus.txt
+security  forensics  web  mobile
+
+$ status
+online · open to collaboration
+```
+
+## `02` // FOCUS
 
 `CYBER SECURITY` · `DIGITAL FORENSICS` · `WEB DEVELOPMENT` · `MOBILE DEVELOPMENT`
 
----
-
-## Tech Stack
+## `03` // STACK
 
 **Languages**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python&logoColor=E5B80B" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-1C1C1C?style=flat-square&logo=dart&logoColor=E5B80B" alt="Dart" />
-  <img src="https://img.shields.io/badge/PHP-1C1C1C?style=flat-square&logo=php&logoColor=E5B80B" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-1C1C1C?style=flat-square&logo=javascript&logoColor=E5B80B" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=E5B80B" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=E5B80B" alt="Dart" />
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=E5B80B" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=E5B80B" alt="JavaScript" />
 </p>
 
 **Frameworks & Tools**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-1C1C1C?style=flat-square&logo=flutter&logoColor=E5B80B" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Flask-1C1C1C?style=flat-square&logo=flask&logoColor=E5B80B" alt="Flask" />
-  <img src="https://img.shields.io/badge/Laravel-1C1C1C?style=flat-square&logo=laravel&logoColor=E5B80B" alt="Laravel" />
-  <img src="https://img.shields.io/badge/React-1C1C1C?style=flat-square&logo=react&logoColor=E5B80B" alt="React" />
-  <img src="https://img.shields.io/badge/MySQL-1C1C1C?style=flat-square&logo=mysql&logoColor=E5B80B" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=E5B80B" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=E5B80B" alt="Flask" />
+  <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=E5B80B" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=E5B80B" alt="React" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=E5B80B" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=E5B80B" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=E5B80B" alt="Linux" />
 </p>
 
----
+## `04` // SELECTED WORK
 
-## Currently Building
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [**Student-App**](https://github.com/FeizenF/Student-App) | Cross-platform academic app for courses, grades, and GPA tracking. | `Flutter` `Dart` `Material 3` |
+| [**sistem-manajemen-mahasiswa**](https://github.com/FeizenF/sistem-manajemen-mahasiswa) | Student data management with validation, relational queries, and a statistics dashboard. | `PHP` `PDO` `MySQL` |
+| [**feizen-haven-hotel**](https://github.com/FeizenF/feizen-haven-hotel) | Hotel booking system with a responsive, Tailwind-driven interface. | `Flask` `Python` `Tailwind CSS` |
 
-**Student-App**  
-A Flutter-based academic application for managing courses, grades, and GPA.
+## `05` // CURRENTLY
 
-**Web Systems**  
-Small web applications focused on backend logic, database design, and practical CRUD systems.
+- **Student-App** · continuing the Flutter build, refining the data model and Material 3 interface.
+- **Web systems** · small applications focused on backend logic, database design, and practical CRUD flows.
+- **Security and forensics** · studying file analysis, metadata, and the fundamentals behind defensive work.
 
-**Security & Forensics**  
-Exploring digital forensics, file analysis, metadata, and security fundamentals.
-
----
-
-## Selected Projects
-
-### Student-App
-[github.com/FeizenF/Student-App](https://github.com/FeizenF/Student-App)
-
-Cross-platform academic application built with **Flutter** and **Material 3**.
-
-`Flutter` `Dart` `Material 3`
-
-### sistem-manajemen-mahasiswa
-[github.com/FeizenF/sistem-manajemen-mahasiswa](https://github.com/FeizenF/sistem-manajemen-mahasiswa)
-
-Student data management system using **PHP, PDO, and MySQL**, including validation, relational queries, and a statistics dashboard.
-
-`PHP` `PDO` `MySQL`
-
-### feizen-haven-hotel
-[github.com/FeizenF/feizen-haven-hotel](https://github.com/FeizenF/feizen-haven-hotel)
-
-Hotel booking system built with **Flask, Tailwind CSS, and JavaScript**.
-
-`Flask` `Python` `Tailwind CSS` `JavaScript`
-
----
-
-## GitHub Activity
+## `06` // GITHUB ACTIVITY
 
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FeizenF&theme=github_dark" alt="GitHub stats" />
@@ -105,14 +93,18 @@ Hotel booking system built with **Flask, Tailwind CSS, and JavaScript**.
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FeizenF&theme=github_dark" alt="Most committed languages" />
 </p>
 
----
-
-## Learning
+## `07` // LEARNING
 
 `Cyber Security` · `Network Security` · `Laravel` · `React`
 
+<br />
+
 ---
 
-<p align="center">
-  <sub>Build things. Understand systems. Keep learning.</sub>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2A2410,50:0D1117,100:05070A" alt="Footer" width="100%" />
+
+<sub>Build things. Understand systems. Keep learning.</sub>
+
+</div>
