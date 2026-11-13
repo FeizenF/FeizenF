@@ -2,8 +2,10 @@ name: Daily activity log
 
 on:
   schedule:
-    # 01:17 UTC, roughly 08:17 WIB
+    # 01:17 UTC (08:17 WIB) and 09:17 UTC (16:17 WIB). The second run is a
+    # retry: it only touches files when the first run missed the day.
     - cron: '17 1 * * *'
+    - cron: '17 9 * * *'
   workflow_dispatch:
 
 permissions:
@@ -22,20 +24,14 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Append today's entry
-        run: |
-          topics=("cyber security" "digital forensics" "web development" "mobile development" "systems study")
-          day=$(( $(date -u +%j) % ${#topics[@]} ))
-          stamp=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
-          echo "- $stamp · ${topics[$day]} · status: online" >> activity.log
-          tail -n 365 activity.log > activity.tmp
-          mv activity.tmp activity.log
+      - name: Write today's entry
+        run: python3 .github/scripts/activity.py
 
       - name: Commit and push
         run: |
           git config user.name "FeizenF"
           git config user.email "FeizenF@users.noreply.github.com"
-          git add activity.log
+          git add activity.log README.md
           if git diff --cached --quiet; then
             echo "Nothing to commit."
             exit 0

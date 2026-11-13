@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/Email-Fernandabrian46%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=E5B80B" alt="Email" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=FeizenF&style=flat-square&color=1C1C1C&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://github.com/FeizenF/FeizenF/actions/workflows/activity.yml">
+  <img src="https://img.shields.io/github/actions/workflow/status/FeizenF/FeizenF/activity.yml?style=flat-square&label=ACTIVITY&logo=github&logoColor=E5B80B&color=1C1C1C" alt="Activity workflow status" />
+</a>
 
 </div>
 
@@ -38,6 +41,9 @@ security  forensics  web  mobile
 
 $ status
 online · open to collaboration
+
+$ date -u
+2026-11-13 · last sync 07:17 UTC
 ```
 
 ## `02` // FOCUS
