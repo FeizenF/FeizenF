@@ -30,7 +30,7 @@ TOPICS = [
 
 MAX_ENTRIES = 365
 ENTRY_RE = re.compile(r"^- \d{4}-\d{2}-\d{2}T")
-SYNC_RE = re.compile(r"^\d{4}-\d{2}-\d{2} · last sync .*$")
+SYNC_RE = re.compile(r"^\d{4}-\d{2}-\d{2} · last sync .*$", re.MULTILINE)
 
 
 def update_log(now: dt.datetime) -> None:
@@ -38,10 +38,13 @@ def update_log(now: dt.datetime) -> None:
     lines = LOG.read_text(encoding="utf-8").splitlines() if LOG.exists() else []
     entries = [line for line in lines if ENTRY_RE.match(line)]
 
-    if not any(line.startswith(f"- {day}") for line in entries):
+    if any(line.startswith(f"- {day}") for line in entries):
+        print(f"entry for {day} already present")
+    else:
         topic = TOPICS[now.timetuple().tm_yday % len(TOPICS)]
         stamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")
         entries.append(f"- {stamp} · {topic} · status: online")
+        print(f"logged {day} · {topic}")
 
     entries = entries[-MAX_ENTRIES:]
     LOG.write_text("\n".join([*HEADER, *entries]) + "\n", encoding="utf-8")
@@ -49,12 +52,22 @@ def update_log(now: dt.datetime) -> None:
 
 def update_readme(now: dt.datetime) -> None:
     if not README.exists():
+        print("README.md missing, skipping sync stamp")
         return
 
     stamp = f"{now.strftime('%Y-%m-%d')} · last sync {now.strftime('%H:%M')} UTC"
     text = README.read_text(encoding="utf-8")
-    text = SYNC_RE.sub(stamp, text, count=1)
-    README.write_text(text, encoding="utf-8")
+    updated, hits = SYNC_RE.subn(stamp, text, count=1)
+
+    if not hits:
+        print("sync stamp not found, leaving README untouched")
+        return
+    if updated == text:
+        print("sync stamp already current")
+        return
+
+    README.write_text(updated, encoding="utf-8")
+    print(f"sync stamp -> {stamp}")
 
 
 def main() -> None:

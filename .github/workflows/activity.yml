@@ -31,10 +31,7 @@ jobs:
         run: |
           git config user.name "FeizenF"
           git config user.email "FeizenF@users.noreply.github.com"
-          grep -n "last sync" README.md || true
-          tail -n 2 activity.log || true
           git add activity.log README.md
-          git diff --cached --stat
           if git diff --cached --quiet; then
             echo "Nothing to commit."
             exit 0
