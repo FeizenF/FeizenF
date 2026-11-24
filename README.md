@@ -27,7 +27,7 @@
 
 I'm an Informatics student working across **Cyber Security, Digital Forensics, and Software Development**.
 
-Most of my work starts from the same question: how does this system actually work? I build the application to find out, then look at it from the other side: the data model, the storage, and what an attacker or an investigator would see.
+Most of my work starts from the same question: how does this system actually work? I build the application to find out, then look at it from the other side — the data model, the storage, and what an attacker or an investigator would see.
 
 ```console
 $ whoami
@@ -55,26 +55,22 @@ $ date -u
 **Languages**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=E5B80B" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=E5B80B" alt="Dart" />
-  <img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=E5B80B" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=E5B80B" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python,dart,php,js&theme=dark" alt="Languages" />
 </p>
 
-**Frameworks & Tools**
+**Frameworks & Databases**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=E5B80B" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=E5B80B" alt="Flask" />
-  <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=E5B80B" alt="Laravel" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=E5B80B" alt="React" />
-  <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=E5B80B" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=E5B80B" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=E5B80B" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=E5B80B" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=flutter,flask,laravel,react,mysql,sqlite&theme=dark" alt="Frameworks and databases" />
 </p>
 
-## `04` // SELECTED WORK
+**Tools & Environment**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio,postman&theme=dark" alt="Tools" />
+</p>
+
+## `04` // FEATURED PROJECTS
 
 <table>
 <tr>
@@ -116,31 +112,86 @@ Public site, user dashboard, and admin panel behind Flask blueprints and SQL ses
 
 **Project notes**
 
-- **fintrack** - the transaction ledger is the only source of truth; account balances are never stored as a column, always derived. Backup is AES-256-GCM with PBKDF2-derived keys, and restore validates the schema before swapping every table inside one Drift transaction. Local only: no server, no analytics.
-- **Student-App** - GPA is computed from grade points weighted by credits, so the number moves the moment a grade changes. State survives restart through `SharedPreferences`.
-- **feizen-haven-hotel** - routes split by concern (auth, booking, admin, API), admin views gated by role, booking state flows public listing to payment to confirmation.
+- **fintrack** — the transaction ledger is the only source of truth; account balances are never stored as a column, always derived. Backup is AES-256-GCM with PBKDF2-derived keys, and restore validates the schema before swapping every table inside one Drift transaction. Local only: no server, no analytics.
+- **Student-App** — GPA is computed from grade points weighted by credits, so the number moves the moment a grade changes. State survives restart through `SharedPreferences`.
+- **feizen-haven-hotel** — routes split by concern (auth, booking, admin, API), admin views gated by role, booking state flows public listing → payment → confirmation.
 
-## `05` // CURRENTLY
-
-- **fintrack** - hardening the finished Android build: validation, backup edge cases, release packaging.
-- **Web systems** - small applications focused on backend logic, database design, and practical CRUD flows.
-- **Security and forensics** - studying file analysis, metadata, and the fundamentals behind defensive work.
-
-## `06` // GITHUB ACTIVITY
+## `05` // GITHUB STATS
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FeizenF&theme=github_dark" alt="GitHub stats" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=FeizenF&hide_border=true&background=0D1117&ring=E5B80B&fire=FF8C00&currStreakLabel=E5B80B&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="GitHub streak" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FeizenF&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E5B80B&icon_color=E5B80B&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=FeizenF&hide_border=true&background=0D1117&ring=E5B80B&fire=FF8C00&currStreakLabel=E5B80B&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FeizenF&theme=github_dark" alt="Top languages" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FeizenF&theme=github_dark" alt="Most committed languages" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeizenF&layout=compact&hide_border=true&bg_color=0D1117&title_color=E5B80B&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FeizenF&theme=github_dark" alt="Most committed languages" />
 </p>
 
-## `07` // LEARNING
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FeizenF&bg_color=0D1117&color=C9D1D9&line=E5B80B&point=FFFFFF&area=true&area_color=E5B80B&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
+</p>
 
-`Cyber Security` · `Network Security` · `Laravel` · `React`
+## `06` // PLAYGROUND
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FeizenF/FeizenF/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FeizenF/FeizenF/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/FeizenF/FeizenF/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://steamcommunity.com/id/[ISI_STEAM_ID]">
+    <img src="https://img.shields.io/badge/Steam-0D1117?style=flat-square&logo=steam&logoColor=E5B80B" alt="Steam" />
+  </a>
+  <a href="https://www.chess.com/member/[ISI_CHESS_USERNAME]">
+    <img src="https://img.shields.io/badge/chess.com-0D1117?style=flat-square&logo=chessdotcom&logoColor=E5B80B" alt="chess.com" />
+  </a>
+  <img src="https://img.shields.io/badge/Mobile%20Legends-0D1117?style=flat-square&logo=riotgames&logoColor=E5B80B" alt="Mobile Legends" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
+</p>
+
+<details>
+<summary><b>Fun facts</b></summary>
+
+<br />
+
+- I learn a system best by breaking the one I just built.
+- Favourite debugging tool: reading the schema before touching the code.
+- Clean data model first, interface second — the reverse always costs a rewrite.
+- Always open to a conversation about forensics, Linux, or a good chess game.
+
+</details>
+
+## `07` // ROADMAP
+
+| Now | Next | Later |
+| --- | --- | --- |
+| `fintrack` release hardening | `Laravel` + `React` full-stack app | Network security labs |
+| File and metadata forensics | REST API design and auth | CTF practice |
+| Flutter state and testing | Docker for local stacks | Deeper DFIR tooling |
+
+## `08` // CONTACT
+
+<p align="center">
+  <a href="https://github.com/FeizenF">
+    <img src="https://img.shields.io/badge/GitHub-FeizenF-0D1117?style=for-the-badge&logo=github&logoColor=E5B80B" alt="GitHub" />
+  </a>
+  <a href="mailto:Fernandabrian46@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20a%20message-0D1117?style=for-the-badge&logo=gmail&logoColor=E5B80B" alt="Email" />
+  </a>
+  <a href="[ISI_LINK_LINKEDIN]">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=E5B80B" alt="LinkedIn" />
+  </a>
+  <a href="[ISI_LINK_PORTFOLIO]">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=firefox&logoColor=E5B80B" alt="Portfolio" />
+  </a>
+</p>
 
 <br />
 
