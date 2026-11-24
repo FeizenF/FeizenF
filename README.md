@@ -113,12 +113,16 @@ Public site, user dashboard, and admin panel behind Flask blueprints and SQL ses
 ## `05` // GITHUB STATS
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FeizenF&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E5B80B&icon_color=E5B80B&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FeizenF&theme=github_dark" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FeizenF&theme=github_dark" alt="GitHub stats" />
   <img height="165em" src="https://streak-stats.demolab.com?user=FeizenF&hide_border=true&background=0D1117&ring=E5B80B&fire=FF8C00&currStreakLabel=E5B80B&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeizenF&layout=compact&hide_border=true&bg_color=0D1117&title_color=E5B80B&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FeizenF&theme=github_dark" alt="Top languages" />
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FeizenF&theme=github_dark" alt="Most committed languages" />
 </p>
 
