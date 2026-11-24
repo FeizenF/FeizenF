@@ -168,7 +168,7 @@ Public site, user dashboard, and admin panel behind Flask blueprints and SQL ses
 
 </details>
 
-> *Build, break, understand, rebuild. That is the whole loop.*
+> *Code is the work. Everything else is just life happening in the background.*
 
 ## `07` // CONTACT
 
