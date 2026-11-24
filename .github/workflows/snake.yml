@@ -19,6 +19,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Generate Pac-Man and Tetris SVGs
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman,tetris'
+
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
@@ -26,12 +32,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=E5B80B
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=E5B80B
-
-      - name: Generate Pac-Man and Tetris SVGs
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          games: 'pacman,tetris'
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
