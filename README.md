@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1100&color=38BDF8&center=true&vCenter=true&width=760&lines=Cyber+Security+Student;Digital+Forensics+%7C+Security+Fundamentals;Flutter+%2B+Web+Developer;Build+things.+Understand+systems." alt="Typing SVG" />
 </a>
 
-<br />
+<br /><br />
 
 <a href="https://github.com/FeizenF">
   <img src="https://img.shields.io/badge/GitHub-FeizenF-0D1117?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub" />
@@ -23,7 +23,15 @@
 
 <br />
 
-## `01` // ABOUT
+<h2 align="center">About</h2>
+
+<div align="center">
+
+<sub>who I am, and why I build</sub>
+
+</div>
+
+<br />
 
 I'm an Informatics student working across **Cyber Security, Digital Forensics, and Software Development**.
 
@@ -46,35 +54,67 @@ $ date -u
 2026-11-24 · last sync 00:57 UTC
 ```
 
-## `02` // FOCUS
+<br />
+
+<h2 align="center">Focus</h2>
+
+<div align="center">
+
+<sub>the four things I keep coming back to</sub>
+
+</div>
+
+<br />
+
+<div align="center">
 
 `CYBER SECURITY` · `DIGITAL FORENSICS` · `WEB DEVELOPMENT` · `MOBILE DEVELOPMENT`
 
-## `03` // STACK
+</div>
+
+<br />
+
+<h2 align="center">Stack</h2>
+
+<div align="center">
+
+<sub>what I reach for when building</sub>
+
+</div>
+
+<br />
+
+<div align="center">
 
 **Languages**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,dart,php,js&theme=dark" alt="Languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,dart,php,js&theme=dark" alt="Languages" />
 
-**Frameworks & Databases**
+**Frameworks and databases**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,flask,laravel,react,mysql,sqlite&theme=dark" alt="Frameworks and databases" />
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,flask,laravel,react,mysql,sqlite&theme=dark" alt="Frameworks and databases" />
 
-**Tools & Environment**
+**Tools and environment**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio,postman&theme=dark" alt="Tools" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio,postman&theme=dark" alt="Tools" />
 
-## `04` // FEATURED PROJECTS
+</div>
+
+<br />
+
+<h2 align="center">Projects</h2>
+
+<div align="center">
+
+<sub>three builds worth showing</sub>
+
+</div>
+
+<br />
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### [fintrack](https://github.com/FeizenF/fintrack)
 
@@ -85,7 +125,7 @@ Multi-account ledger, budgets, savings goals, reports with charts, encrypted JSO
 `Flutter` `Dart` `Drift` `SQLite` `Riverpod`
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### [Student-App](https://github.com/FeizenF/Student-App)
 
@@ -96,7 +136,7 @@ Course and grade CRUD, automatic letter grades, live GPA calculation, local pers
 `Flutter` `Dart` `Material 3`
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### [feizen-haven-hotel](https://github.com/FeizenF/feizen-haven-hotel)
 
@@ -110,7 +150,17 @@ Public site, user dashboard, and admin panel behind Flask blueprints and SQL ses
 </tr>
 </table>
 
-## `05` // GITHUB STATS
+<br />
+
+<h2 align="center">Activity</h2>
+
+<div align="center">
+
+<sub>what the commit history looks like</sub>
+
+</div>
+
+<br />
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FeizenF&theme=github_dark" alt="Profile details" />
@@ -130,7 +180,17 @@ Public site, user dashboard, and admin panel behind Flask blueprints and SQL ses
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FeizenF&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
 </p>
 
-## `06` // PLAYGROUND
+<br />
+
+<h2 align="center">Playground</h2>
+
+<div align="center">
+
+<sub>my contribution graph, falling one block at a time</sub>
+
+</div>
+
+<br />
 
 <p align="center">
   <picture>
@@ -140,9 +200,23 @@ Public site, user dashboard, and admin panel behind Flask blueprints and SQL ses
   </picture>
 </p>
 
-> *Code is the work. Everything else is just life happening in the background.*
+<div align="center">
 
-## `07` // CONTACT
+<sub><i>Code is the work. Everything else is just life happening in the background.</i></sub>
+
+</div>
+
+<br />
+
+<h2 align="center">Contact</h2>
+
+<div align="center">
+
+<sub>always open to a good conversation</sub>
+
+</div>
+
+<br />
 
 <p align="center">
   <a href="https://github.com/FeizenF">
