@@ -25,9 +25,9 @@
 
 ## `01` // ABOUT
 
-I'm an Informatics student with an interest in **Cyber Security, Digital Forensics, and Software Development**.
+I'm an Informatics student working across **Cyber Security, Digital Forensics, and Software Development**.
 
-Most of my work starts from the same question: how does this system actually work? I build applications to find out, then take them apart from the other side.
+Most of my work starts from the same question: how does this system actually work? I build the application to find out, then look at it from the other side: the data model, the storage, and what an attacker or an investigator would see.
 
 ```console
 $ whoami
@@ -68,6 +68,7 @@ $ date -u
   <img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=E5B80B" alt="Flask" />
   <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=E5B80B" alt="Laravel" />
   <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=E5B80B" alt="React" />
+  <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=E5B80B" alt="SQLite" />
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=E5B80B" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=E5B80B" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=E5B80B" alt="Linux" />
@@ -75,17 +76,55 @@ $ date -u
 
 ## `04` // SELECTED WORK
 
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| [**Student-App**](https://github.com/FeizenF/Student-App) | Cross-platform academic app for courses, grades, and GPA tracking. | `Flutter` `Dart` `Material 3` |
-| [**sistem-manajemen-mahasiswa**](https://github.com/FeizenF/sistem-manajemen-mahasiswa) | Student data management with validation, relational queries, and a statistics dashboard. | `PHP` `PDO` `MySQL` |
-| [**feizen-haven-hotel**](https://github.com/FeizenF/feizen-haven-hotel) | Hotel booking system with a responsive, Tailwind-driven interface. | `Flask` `Python` `Tailwind CSS` |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### [fintrack](https://github.com/FeizenF/fintrack)
+
+Offline personal finance manager for Android.
+
+Multi-account ledger, budgets, savings goals, reports with charts, encrypted JSON backup.
+
+`Flutter` `Dart` `Drift` `SQLite` `Riverpod`
+
+</td>
+<td width="33%" valign="top">
+
+### [Student-App](https://github.com/FeizenF/Student-App)
+
+Academic app for courses, grades, and GPA tracking.
+
+Course and grade CRUD, automatic letter grades, live GPA calculation, local persistence.
+
+`Flutter` `Dart` `Material 3`
+
+</td>
+<td width="33%" valign="top">
+
+### [feizen-haven-hotel](https://github.com/FeizenF/feizen-haven-hotel)
+
+Hotel booking system with room management and payments.
+
+Public site, user dashboard, and admin panel behind Flask blueprints and SQL sessions.
+
+`Flask` `Python` `MySQL` `Tailwind CSS`
+
+</td>
+</tr>
+</table>
+
+**Project notes**
+
+- **fintrack** - the transaction ledger is the only source of truth; account balances are never stored as a column, always derived. Backup is AES-256-GCM with PBKDF2-derived keys, and restore validates the schema before swapping every table inside one Drift transaction. Local only: no server, no analytics.
+- **Student-App** - GPA is computed from grade points weighted by credits, so the number moves the moment a grade changes. State survives restart through `SharedPreferences`.
+- **feizen-haven-hotel** - routes split by concern (auth, booking, admin, API), admin views gated by role, booking state flows public listing to payment to confirmation.
 
 ## `05` // CURRENTLY
 
-- **Student-App** · continuing the Flutter build, refining the data model and Material 3 interface.
-- **Web systems** · small applications focused on backend logic, database design, and practical CRUD flows.
-- **Security and forensics** · studying file analysis, metadata, and the fundamentals behind defensive work.
+- **fintrack** - hardening the finished Android build: validation, backup edge cases, release packaging.
+- **Web systems** - small applications focused on backend logic, database design, and practical CRUD flows.
+- **Security and forensics** - studying file analysis, metadata, and the fundamentals behind defensive work.
 
 ## `06` // GITHUB ACTIVITY
 
