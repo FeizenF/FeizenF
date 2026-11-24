@@ -110,12 +110,6 @@ Public site, user dashboard, and admin panel behind Flask blueprints and SQL ses
 </tr>
 </table>
 
-**Project notes**
-
-- **fintrack** — the transaction ledger is the only source of truth; account balances are never stored as a column, always derived. Backup is AES-256-GCM with PBKDF2-derived keys, and restore validates the schema before swapping every table inside one Drift transaction. Local only: no server, no analytics.
-- **Student-App** — GPA is computed from grade points weighted by credits, so the number moves the moment a grade changes. State survives restart through `SharedPreferences`.
-- **feizen-haven-hotel** — routes split by concern (auth, booking, admin, API), admin views gated by role, booking state flows public listing → payment → confirmation.
-
 ## `05` // GITHUB STATS
 
 <p align="center">
