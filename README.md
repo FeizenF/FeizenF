@@ -134,47 +134,43 @@ Public site, user dashboard, and admin panel behind Flask blueprints and SQL ses
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FeizenF/FeizenF/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FeizenF/FeizenF/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/FeizenF/FeizenF/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FeizenF/FeizenF/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FeizenF/FeizenF/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/FeizenF/FeizenF/output/pacman-contribution-graph-dark.svg" width="100%" />
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://steamcommunity.com/id/[ISI_STEAM_ID]">
-    <img src="https://img.shields.io/badge/Steam-0D1117?style=flat-square&logo=steam&logoColor=E5B80B" alt="Steam" />
-  </a>
-  <a href="https://www.chess.com/member/[ISI_CHESS_USERNAME]">
-    <img src="https://img.shields.io/badge/chess.com-0D1117?style=flat-square&logo=chessdotcom&logoColor=E5B80B" alt="chess.com" />
-  </a>
-  <img src="https://img.shields.io/badge/Mobile%20Legends-0D1117?style=flat-square&logo=riotgames&logoColor=E5B80B" alt="Mobile Legends" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FeizenF/FeizenF/output/tetris-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FeizenF/FeizenF/output/tetris-contribution-graph.svg" />
+    <img alt="Tetris contribution graph" src="https://raw.githubusercontent.com/FeizenF/FeizenF/output/tetris-contribution-graph-dark.svg" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FeizenF/FeizenF/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FeizenF/FeizenF/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/FeizenF/FeizenF/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
 <details>
-<summary><b>Fun facts</b></summary>
+<summary><b>Easter eggs</b></summary>
 
 <br />
 
 - I learn a system best by breaking the one I just built.
 - Favourite debugging tool: reading the schema before touching the code.
 - Clean data model first, interface second — the reverse always costs a rewrite.
-- Always open to a conversation about forensics, Linux, or a good chess game.
+- Open to a conversation about forensics, Linux, or a good chess game.
 
 </details>
 
-## `07` // ROADMAP
+> *Build, break, understand, rebuild. That is the whole loop.*
 
-| Now | Next | Later |
-| --- | --- | --- |
-| `fintrack` release hardening | `Laravel` + `React` full-stack app | Network security labs |
-| File and metadata forensics | REST API design and auth | CTF practice |
-| Flutter state and testing | Docker for local stacks | Deeper DFIR tooling |
-
-## `08` // CONTACT
+## `07` // CONTACT
 
 <p align="center">
   <a href="https://github.com/FeizenF">
