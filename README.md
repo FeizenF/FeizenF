@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Feizen&fontSize=76&fontColor=E5B80B&fontAlignY=34&desc=Cyber%20Security%20%C2%B7%20Digital%20Forensics%20%C2%B7%20Developer&descSize=15&descAlign=center&descAlignY=58&textBg=false&stroke=E5B80B&strokeWidth=1&color=0:05070A,50:0D1117,100:2A2410" alt="Feizen" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Feizen&fontSize=78&fontColor=7DD3FC&fontAlignY=52&textBg=false&stroke=0EA5E9&strokeWidth=1&color=0:01040A,45:061527,100:0B2A4A" alt="Feizen" width="100%" />
 
 <a href="https://github.com/FeizenF">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1100&color=E5B80B&center=true&vCenter=true&width=760&lines=Cyber+Security+Student;Digital+Forensics+%7C+Security+Fundamentals;Flutter+%2B+Web+Developer;Build+things.+Understand+systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1100&color=38BDF8&center=true&vCenter=true&width=760&lines=Cyber+Security+Student;Digital+Forensics+%7C+Security+Fundamentals;Flutter+%2B+Web+Developer;Build+things.+Understand+systems." alt="Typing SVG" />
 </a>
 
 <br />
 
 <a href="https://github.com/FeizenF">
-  <img src="https://img.shields.io/badge/GitHub-FeizenF-0D1117?style=flat-square&logo=github&logoColor=E5B80B" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-FeizenF-0D1117?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub" />
 </a>
 <a href="mailto:Fernandabrian46@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact-0D1117?style=flat-square&logo=gmail&logoColor=E5B80B" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-Contact-0D1117?style=flat-square&logo=gmail&logoColor=38BDF8" alt="Email" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=FeizenF&style=flat-square&color=1C1C1C&label=PROFILE+VIEWS" alt="Profile views" />
 <a href="https://github.com/FeizenF/FeizenF/actions/workflows/activity.yml">
-  <img src="https://img.shields.io/github/actions/workflow/status/FeizenF/FeizenF/activity.yml?style=flat-square&label=ACTIVITY&logo=github&logoColor=E5B80B&color=1C1C1C" alt="Activity workflow status" />
+  <img src="https://img.shields.io/github/actions/workflow/status/FeizenF/FeizenF/activity.yml?style=flat-square&label=ACTIVITY&logo=github&logoColor=38BDF8&color=1C1C1C" alt="Activity workflow status" />
 </a>
 
 </div>
@@ -118,7 +118,7 @@ Public site, user dashboard, and admin panel behind Flask blueprints and SQL ses
 
 <p align="center">
   <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FeizenF&theme=github_dark" alt="GitHub stats" />
-  <img height="165em" src="https://streak-stats.demolab.com?user=FeizenF&hide_border=true&background=0D1117&ring=E5B80B&fire=FF8C00&currStreakLabel=E5B80B&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="GitHub streak" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=FeizenF&hide_border=true&background=0D1117&ring=38BDF8&fire=FF8C00&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="GitHub streak" />
 </p>
 
 <p align="center">
@@ -127,18 +127,10 @@ Public site, user dashboard, and admin panel behind Flask blueprints and SQL ses
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FeizenF&bg_color=0D1117&color=C9D1D9&line=E5B80B&point=FFFFFF&area=true&area_color=E5B80B&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FeizenF&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
 </p>
 
 ## `06` // PLAYGROUND
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FeizenF/FeizenF/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FeizenF/FeizenF/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/FeizenF/FeizenF/output/pacman-contribution-graph-dark.svg" width="100%" />
-  </picture>
-</p>
 
 <p align="center">
   <picture>
@@ -148,42 +140,22 @@ Public site, user dashboard, and admin panel behind Flask blueprints and SQL ses
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FeizenF/FeizenF/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FeizenF/FeizenF/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/FeizenF/FeizenF/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</p>
-
-<details>
-<summary><b>Easter eggs</b></summary>
-
-<br />
-
-- I learn a system best by breaking the one I just built.
-- Favourite debugging tool: reading the schema before touching the code.
-- Clean data model first, interface second — the reverse always costs a rewrite.
-- Open to a conversation about forensics, Linux, or a good chess game.
-
-</details>
-
 > *Code is the work. Everything else is just life happening in the background.*
 
 ## `07` // CONTACT
 
 <p align="center">
   <a href="https://github.com/FeizenF">
-    <img src="https://img.shields.io/badge/GitHub-FeizenF-0D1117?style=for-the-badge&logo=github&logoColor=E5B80B" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-FeizenF-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
   </a>
   <a href="mailto:Fernandabrian46@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20a%20message-0D1117?style=for-the-badge&logo=gmail&logoColor=E5B80B" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Send%20a%20message-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
   </a>
   <a href="[ISI_LINK_LINKEDIN]">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=E5B80B" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
   </a>
   <a href="[ISI_LINK_PORTFOLIO]">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=firefox&logoColor=E5B80B" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=firefox&logoColor=38BDF8" alt="Portfolio" />
   </a>
 </p>
 
@@ -193,7 +165,7 @@ Public site, user dashboard, and admin panel behind Flask blueprints and SQL ses
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2A2410,50:0D1117,100:05070A" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B2A4A,45:061527,100:01040A" alt="Footer" width="100%" />
 
 <sub>Build things. Understand systems. Keep learning.</sub>
 
