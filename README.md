@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Fernanda%20Brian%20Kholish&desc=%3C%20Feizen%20%2F%3E%20Cyber%20Security%20Student&descAlign=center&descAlignY=70&descSize=16&textBg=false&fontColor=E5B80B&fontSize=44&stroke=E5B80B&strokeWidth=1&color=0:05070A,50:0D1117,100:2A2410" alt="Fernanda Brian Kholish - Feizen" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Feizen&fontSize=76&fontColor=E5B80B&fontAlignY=34&desc=Cyber%20Security%20%C2%B7%20Digital%20Forensics%20%C2%B7%20Developer&descSize=15&descAlign=center&descAlignY=58&textBg=false&stroke=E5B80B&strokeWidth=1&color=0:05070A,50:0D1117,100:2A2410" alt="Feizen" width="100%" />
 
 <a href="https://github.com/FeizenF">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1100&color=E5B80B&center=true&vCenter=true&width=760&lines=Cyber+Security+Student;Digital+Forensics+%7C+Security+Fundamentals;Flutter+%2B+Web+Developer;Build+things.+Understand+systems." alt="Typing SVG" />
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/GitHub-FeizenF-0D1117?style=flat-square&logo=github&logoColor=E5B80B" alt="GitHub" />
 </a>
 <a href="mailto:Fernandabrian46@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Fernandabrian46%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=E5B80B" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-Contact-0D1117?style=flat-square&logo=gmail&logoColor=E5B80B" alt="Email" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=FeizenF&style=flat-square&color=1C1C1C&label=PROFILE+VIEWS" alt="Profile views" />
 <a href="https://github.com/FeizenF/FeizenF/actions/workflows/activity.yml">
@@ -31,7 +31,7 @@ Most of my work starts from the same question: how does this system actually wor
 
 ```console
 $ whoami
-fernanda brian kholish · "feizen"
+feizen · informatics student
 
 $ pwd
 informatics · cyber security · app development
